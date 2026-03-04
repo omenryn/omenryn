@@ -6,32 +6,7 @@
 
 ---
 
-## 🛠️ Tech Stack
 
-### 💻 Languages
-- JavaScript
-- TypeScript
-- Python
-- C
-
-### 🌐 Frontend
-- React
-- HTML5
-- CSS3
-- Tailwind
-
-### ⚙️ Backend
-- Node.js
-- Express
-
-### 🗄️ Database
-- MongoDB
-- MySQL
-
-### 🐧 DevOps / Tools
-- Linux (Debian)
-- Docker
-- Git
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/500px-C_Programming_Language.svg.png?_=20201031132917)" width="45" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
