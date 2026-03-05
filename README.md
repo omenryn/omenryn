@@ -8,7 +8,7 @@
 
 
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack   
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
