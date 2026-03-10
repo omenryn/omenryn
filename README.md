@@ -1,8 +1,11 @@
 # it's Ryn
+ 
 💻 Fullstack Developer from Morocco 🇲🇦  
 🚀 Passionate about Web Development & Self-Hosting  
 🧠 Currently learning: Advanced Backend & System Design  
+
 ---
+
 <p align="center">
   <img src="https://media1.tenor.com/m/4qXlNFsf2qoAAAAd/teru-mikami-death-note.gif" width="400" />
   <br/>
@@ -10,7 +13,9 @@
     <img src="https://streak-stats.demolab.com?user=omenryn&theme=highcontrast" alt="GitHub Streak" />
   </a>
 </p>
+
 ---
+
 ## 🛠️ Tech Stack   
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
