@@ -6,7 +6,9 @@
 
 ---
 
-                              [![GitHub Streak](https://streak-stats.demolab.com?user=omenryn&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=omenryn&theme=dark&hide_border=true" />
+</p>
 
 ---
 
