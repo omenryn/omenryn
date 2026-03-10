@@ -7,7 +7,11 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=omenryn&theme=dark&hide_border=true" />
+  <img src="https://tenor.com/view/teru-mikami-death-note-delete-mikami-hand-of-god-gif-16331711636758846122" width="400" />
+  <br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=omenryn&theme=highcontrast" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
