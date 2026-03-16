@@ -45,5 +45,26 @@ self-host > depend
 * 🤖 Automation & Bots
 
 ---
+---
+
+## 🗡️ Favorite Anime Characters
+
+<p align="center">
+
+|                                                                                                                   |                                                                                                                 |                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/f/f4/Mikasa_Ackerman_anime.png" width="120"/> | <img src="https://static.wikia.nocookie.net/shingekinokyojin/images/7/7a/Levi_Ackerman_anime.png" width="120"/> | <img src="https://static.wikia.nocookie.net/blackclover/images/0/0d/Julius_Novachrono_anime.png" width="120"/> |
+| **Mikasa Ackerman**                                                                                               | **Levi Ackerman**                                                                                               | **Julius Novachrono**                                                                                          |
+
+|                                                                                                  |                                                                                                       |                                                                                                  |
+| ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| <img src="https://static.wikia.nocookie.net/deathnote/images/3/3c/Teru_Mikami.png" width="120"/> | <img src="https://static.wikia.nocookie.net/deathnote/images/0/0b/Misa_Amane_Anime.png" width="120"/> | <img src="https://static.wikia.nocookie.net/deathnote/images/7/72/Raye_Penber.png" width="120"/> |
+| **Teru Mikami**                                                                                  | **Misa Amane**                                                                                        | **Raye Penber**                                                                                  |
+
+</p>
+
+---
+
+
 
 
