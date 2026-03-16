@@ -4,12 +4,21 @@ on:
   workflow_dispatch:
 
 jobs:
-  metrics:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@v3
+      - name: Generate Metrics
+        uses: lowlighter/metrics@v3
         with:
           filename: metrics.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{  }}
           base: header
           output_action: commit
+
+          plugin_stars: yes
+          plugin_stars_limit: 5
+
+          plugin_languages: yes
+          plugin_languages_sections: recently-used
+          plugin_languages_limit: 5
+          plugin_languages_details: percentage
