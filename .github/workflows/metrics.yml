@@ -1,15 +1,15 @@
-- name: 📌 Stars + Languages
-  uses: lowlighter/metrics@v3
-  with:
-    filename: metrics.svg
-    token: ${{ secrets.TOKEN }}
-    base: ""
-    output_action: local
+name: Metrics
 
-    plugin_stars: yes
-    plugin_stars_limit: 5
+on:
+  workflow_dispatch:
 
-    plugin_languages: yes
-    plugin_languages_sections: recently-used
-    plugin_languages_limit: 5
-    plugin_languages_details: percentage
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@v3
+        with:
+          filename: metrics.svg
+          token: ${{ secrets.TOKEN }}
+          base: header
+          output_action: commit
