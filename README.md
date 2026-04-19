@@ -11,7 +11,7 @@ Linux enthusiast and developer focused on building real-world projects and explo
 </br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,python,mongodb,mysql,docker,git,linux,blender" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,python,mongodb,mysql,docker,git,linux," />
   </a>
 </p>
 </br>
@@ -21,18 +21,8 @@ Linux enthusiast and developer focused on building real-world projects and explo
 </br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,arch,github,figma,vercel" />
+    <img src="https://skillicons.dev/icons?i=vscode,arch,github,figma,vercel,blender,robloxstudio,supabase" />
   </a>
-</p>
-</br>
-
-# Projects
-
-</br>
-<p align="center">
-🚀 Building a Moroccan Linux distro <br>
-🎮 Roblox systems & game mechanics <br>
-⚙️ Automation scripts & dev tools
 </p>
 </br>
 
@@ -40,11 +30,9 @@ Linux enthusiast and developer focused on building real-world projects and explo
 
 </br>
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/omenryn">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <br><br>
-  📧 shdow0302665@gmail.com <br>
-  💬 Discord: omenryn
 </p>
 </br>
