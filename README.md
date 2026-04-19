@@ -1,38 +1,47 @@
- # it's Ryn
- 
-💻 Fullstack Developer from Morocco 🇲🇦  
-🚀 Passionate about Web Development & Self-Hosting  
-🧠 Currently learning: System Design   
-
----
+<h1 align="center"><b>Ryn</b></h1>
+</br>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/4qXlNFsf2qoAAAAd/teru-mikami-death-note.gif" width="400" />
-  <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=omenryn&theme=highcontrast" alt="GitHub Streak" />
+Linux enthusiast and developer focused on building real-world projects and exploring how systems work under the hood. I enjoy working with JavaScript, Node.js, and Linux environments, experimenting with tools, customizing workflows, and improving performance. My goal is to grow through hands-on experience, creating efficient systems, and developing both technical and problem-solving skills.
+</p>
+</br>
+
+# Skills
+
+</br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,linux,git,bash" />
   </a>
 </p>
+</br>
 
----
+# Tools
 
-## 🛠️ Tech Stack   
+</br>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" title="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" title="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" title="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" title="Express"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" title="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" title="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" title="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,arch,github,figma,vercel" />
+  </a>
 </p>
+</br>
 
+# Projects
 
+</br>
+<p align="center">
+🚀 Building a Moroccan Linux distro <br>
+🎮 Roblox systems & game mechanics <br>
+⚙️ Automation scripts & dev tools
+</p>
+</br>
+
+# Contacts
+
+</br>
+<p align="center">
+  <a href="https://github.com/your-username">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+</br>
