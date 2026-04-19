@@ -2,7 +2,7 @@
  
 💻 Fullstack Developer from Morocco 🇲🇦  
 🚀 Passionate about Web Development & Self-Hosting  
-🧠 Currently learning: Advanced Backend & System Design  
+🧠 Currently learning: System Design   
 
 ---
 
@@ -35,4 +35,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
 </p>
 
-![Metrics](./metrics.svg)
+
