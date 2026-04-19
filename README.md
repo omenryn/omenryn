@@ -11,7 +11,7 @@ Linux enthusiast and developer focused on building real-world projects and explo
 </br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,linux,git,bash" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,python,mongodb,mysql,docker,git,linux,blender" />
   </a>
 </p>
 </br>
@@ -43,5 +43,8 @@ Linux enthusiast and developer focused on building real-world projects and explo
   <a href="https://github.com/your-username">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
+  <br><br>
+  📧 shdow0302665@gmail.com <br>
+  💬 Discord: omenryn
 </p>
 </br>
