@@ -26,13 +26,3 @@ Linux enthusiast and developer focused on building real-world projects and explo
 </p>
 </br>
 
-# Contacts
-
-</br>
-<p align="center">
-  <a href="https://github.com/omenryn">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  <br><br>
-</p>
-</br>
