@@ -11,7 +11,7 @@ Linux enthusiast and developer focused on building real-world projects and explo
 </br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,nodejs,python,mongodb,mysql,docker,git,linux," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,express,vite,nodejs,python,mongodb,mysql,docker,git,linux," />
   </a>
 </p>
 </br>
