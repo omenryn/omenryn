@@ -2,7 +2,7 @@
 </br>
 
 <p align="center">
-Linux enthusiast and developer focused on building real-world projects and exploring how systems work under the hood. I enjoy working with JavaScript, Node.js, and Linux environments, experimenting with tools, customizing workflows, and improving performance. My goal is to grow through hands-on experience, creating efficient systems, and developing both technical and problem-solving skills.
+Linux enthusiast and developer focused on building real-world projects and exploring how systems work under the hood. I enjoy working with JavaScript, Node.js, and Linux environments, experimenting with tools, customizing workflows, and improving performance
 </p>
 </br>
 
